@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CRR IT HANDBOOK</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_crr_it_labs">Welcome To CRR IT Labs</string>
+    <string name="crr_it_labs">CRR IT Hand Book</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="name2">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_password1">Confirm Password</string>
+</resources>
