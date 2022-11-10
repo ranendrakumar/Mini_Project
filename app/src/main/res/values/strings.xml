@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">CRR IT HANDBOOK</string>
+    <string name="app_name">CRR IT LAB MANUALS</string>
     <string name="todo">TODO</string>
-    <string name="welcome_to_crr_it_labs">Welcome To CRR IT Labs</string>
-    <string name="crr_it_labs">CRR IT Hand Book</string>
+    <string name="welcome_to_crr_it_labs">Welcome To CRR IT Lab Manuals</string>
+    <string name="crr_it_labs">CRR IT Lab Manuals</string>
     <string name="login">Login</string>
     <string name="sign_up">Sign Up</string>
     <string name="name">Name</string>
